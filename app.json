@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4cd58388-32f0-4b39-af7a-62acce8a5b67"
+      }
+    },
+    "owner": "daemswork"
   }
 }
